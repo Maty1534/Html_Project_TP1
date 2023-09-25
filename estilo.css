@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;}
+
+#elvira { font-style: oblique;}
+
+.contenido {
+    color: red;}
+
+.centro {
+    display: grid; place-items: center;   
+}
+
+.lista {
+    font-style: initial;
+    caret-color: blueviolet;
+    flood-color: antiquewhite;
+}
